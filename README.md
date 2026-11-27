@@ -1,2 +1,2 @@
-# Study Planner (SDU edition)
+# My Study Planner (SDU edition)
 INF 106 Practice 12
